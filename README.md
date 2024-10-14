@@ -1,4 +1,4 @@
-# ¡Hola, mi nombre es Rafa y os presento mi perfil!
+# ¡Hola, me llamo Rafa y os presento mi perfil!
 ---
 ## Datos personales
 Hoy en día, me encuentro estudiando un ciclo formativo de [Grado Superior de Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html) a distancia en **[CFIP La Conservera](https://sites.google.com/view/fplaconservera)**.
@@ -14,15 +14,31 @@ Hoy en día, me encuentro estudiando un ciclo formativo de [Grado Superior de De
 * Lenguajes de marcas y sistemas de gestión de información
 
 ## Stack Tecnológico Conocido
+A continuación os muestro una tabla sobre mis niveles de _conocimiento_ (básico/intermedio/avanzado) en _lenguajes de programación_.
+| Básico | Intermedio | Avanzado |
+| :----: |:----------:| :-------:|
+| HTML   | C++        | Python   |
+| XML    | Markdown   |          |
+| Java   |            |          |
 
-### Conocimientos de nivel Básico:
-* HTML
-* XML
-* Java
+## Stack Tecnológico del Curso
+* Lenguajes de marcas y sistemas de gestión de información:
+    * HTML
+    * XML
+    * Markdown
 
-### Conocimientos de nivel Intermedio:
-* C++
-* Markdown
+* Programación:
+    * Java
 
-### Conocimientos de nivel Avanzado:
-* Python
+* Bases de Datos:
+    * Microsoft Visio
+
+* Entornos de Desarrollo:
+    * Frameworks
+    * Máquinas Virtuales
+
+
+## Preferencias Tecnológicas
+* Full-stack
+* Frontend
+* Diseño de Interfaces Gráficas
