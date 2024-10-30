@@ -3,7 +3,7 @@
 ## Datos personales
 Hoy en día, me encuentro estudiando un ciclo formativo de [Grado Superior de Desarrollo de Aplicaciones Multiplataforma](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html) a distancia en **[CFIP La Conservera](https://sites.google.com/view/fplaconservera)**.
 
-## Asiganturas matriculadas
+## Asignaturas matriculadas
 * Bases de Datos
 * Inglés Profesional
 * Programación
